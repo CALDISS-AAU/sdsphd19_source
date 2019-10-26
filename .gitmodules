@@ -2,3 +2,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/CALDISS-AAU/sdsphd19.git
+[submodule "themes/whisper"]
+	path = themes/whisper
+	url = https://github.com/JugglerX/hugo-whisper-theme.git
