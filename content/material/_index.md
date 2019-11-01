@@ -21,7 +21,7 @@ draft: false
 | 10:30-12:00 | **EDA/USML: Clustering techniques**                          | Rolf L. Lund + T&T        |
 | 12:00-13:00 | *LUNCH*                                                      |                           |
 | 13:00-14:00 | **SML: Introduction to supervised machine learning**         | Daniel S. Hain            |
-| 14:00-16:00 | **SML Prediction and classification**                        | Roman Jurowetski + T&T    |
+| 14:00-16:00 | **SML Prediction and classification** and how to use it in your research                        | Roman Jurowetski + T&T    |
 | 16:00-17:00 | **Portfolio:** Applying unsupervised and supervised machine learning algorithms | Daniel, Roman, Rolf + T&T |
 ### Wednesday (Nov. 27th 2019)
 | Time        | Module                                                       | Instructor           |
@@ -37,7 +37,7 @@ draft: false
 | 9:00-10:00  | **NLP: Text as data**| Roman Jurowetski       |
 | 10:00-12:00 | **NLP: Text for EDA**| Roman Jurowetski + T&T |
 | 12:00-13:00 | *LUNCH*                                                      |                        |
-| 13:00-14:00 | **NLP: Exploratory methods for text**| Roman Jurowetski + T&T |
+| 13:00-14:00 | **NLP: Using text in ML pipelines**| Roman Jurowetski + T&T |
 | 16:00-17:00 | **Portfolio:** Applying NLP techniques                       | Roman + T&T            |
 ### Friday (Nov. 29th 2019)
 
