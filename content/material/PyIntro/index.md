@@ -1,18 +1,20 @@
 ---
-title: 'Data Science with Python'
+title: 'An introduction to Python and Data Science'
 date: 2019-02-11T19:30:08+10:00
 draft: false
 weight: 1
-summary: "Monday: Working with Python and tabular data"
+summary: "Monday: An introduction to Python and Data Science - Working with Python and tabular data"
 ---
 
 ### Monday (Nov. 25th 2019)
 | Time        | Module                                                       | Instructor                          |
 | ----------- | ------------------------------------------------------------ | ----------------------------------- |
-| 9:00-12:00  | **Python for Data Science pt. 1** | Tobias L. Jensen & Thomas Arildsen |
+| 9:00-12:00  | **An introduction to Python and Data Science pt. 1** | Tobias L. Jensen & Thomas Arildsen |
 | 12:00-13:00 | *LUNCH*                                                      |                                     |
-| 13:00-16:00 | **Python for Data Science pt. 2** | Tobias L. Jensen & Thomas Arildsen |
+| 13:00-16:00 | **An introduction to Python and Data Science pt. 2** | Tobias L. Jensen & Thomas Arildsen |
 
+### Description
+On day one we will build a working knowledge for performing simple data processing of tabular data and generating visualization of data using the programming language Python. The course requires no knowledge of the Python programming language, but a basic programming proficiency is required (your have programmed before). We will first cover basic programming in the Python language and how to work with the Jupyter Notebook tool. This basic part will then be extended with data processing and visualization based in a dedicated data analytics tools named Pandas. The day is organized with lectures and small exercises to be solved individually or in small groups.
 
 ### Method
 The day is based on [participatory live coding](https://carpentries.github.io/instructor-training/14-live/) where the instructor will type in the code with the participants following along. We have good experience with this teaching form. There will also be plenty of small 5 min. exercises.
@@ -53,20 +55,22 @@ The day is based on [participatory live coding](https://carpentries.github.io/in
 
 ### Literature:
 
-#### Python primer
+- Python primer
 
 [Python Data Science Handbook, Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [A Primer on Scientific Programming with Python, Hans Petter Langtangen](https://link.springer.com/book/10.1007%2F978-3-662-49887-3)
 
-#### Notebooks and data carpentry
+- Notebooks and data carpentry
+
 [Inspiration: Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 [Inspiration: JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny)
 
 [Data Capentry: Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/)
 
-#### Data Viz
+- Data Viz
+
 [Fundamentals of Data Visualization, Wilke](https://serialmentor.com/dataviz/)
 
 Edward R. Tufte, The Visual Display of Quantitive Information, Graphics Press, 1983
@@ -75,7 +79,8 @@ Edward R. Tufte, The Visual Display of Quantitive Information, Graphics Press, 1
 
 [An Admin's Guide to Data Visualization, Caskey L. Dickson](https://www.usenix.org/sites/default/files/conference/protected-files/lisa16_slides_dickson.pdf)
 
-#### Seaborn
+- Seaborn
+
 [seaborn: statistical data visualization](https://seaborn.pydata.org/)
 
 [Data visualization with Seaborn](https://www.oreilly.com/learning/data-visualization-with-seaborn)
