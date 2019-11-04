@@ -10,9 +10,9 @@ draft: false
 ### Monday (Nov. 25th 2019)
 | Time        | Module                                                       | Instructor                          |
 | ----------- | ------------------------------------------------------------ | ----------------------------------- |
-| 9:00-12:00  | **Python for Data Science pt. 1** | Tobias L. Jensen & Thomas Arrildsen |
+| 9:00-12:00  | **An introduction to Python and Data Science pt. 1** | Tobias L. Jensen & Thomas Arildsen |
 | 12:00-13:00 | *LUNCH*                                                      |                                     |
-| 13:00-16:00 | **Python for Data Science pt. 2** | Tobias L. Jensen & Thomas Arrildsen |
+| 13:00-16:00 | **An introduction to Python and Data Science pt. 2** | Tobias L. Jensen & Thomas Arildsen |
 
 ### Tuesday (Nov. 26th 2019)
 | Time        | Module                                                       | Instructor                |
