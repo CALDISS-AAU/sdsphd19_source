@@ -1,15 +1,16 @@
 ---
 title: "Course Schedule"
 date: 2019-11-04T14:51:42+01:00
+summary: "The schedule for the course with links to the relevant notebooks"
 draft: false
 ---
 
 ### Monday (Nov. 25th 2019)
 | Time        | Module                                                       | Instructor                          |
 | ----------- | ------------------------------------------------------------ | ----------------------------------- |
-| 9:00-12:00  | <a href = {{< ref "../../notebooks/PyIntro/index.md" >}}>**Python for Data Science pt. 1** | Tobias L. Jensen & Thomas Arildsen |
+| 9:00-12:00  | <a href = {{< ref "../../notebooks/PyIntro/index.md" >}}>**An introduction to Python and Data Science pt. 1**</a> | Tobias L. Jensen & Thomas Arildsen |
 | 12:00-13:00 | *LUNCH*                                                      |                                     |
-| 13:00-16:00 | <a href = {{< ref "../../notebooks/PyIntro/index.md" >}}>**Python for Data Science pt. 2** | Tobias L. Jensen & Thomas Arildsen |
+| 13:00-16:00 | <a href = {{< ref "../../notebooks/PyIntro/index.md" >}}>**An introduction to Python and Data Science pt. 2**</a> | Tobias L. Jensen & Thomas Arildsen |
 
 ### Tuesday (Nov. 26th 2019)
 | Time        | Module                                                       | Instructor                |

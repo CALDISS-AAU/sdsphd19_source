@@ -1,7 +1,7 @@
 ---
 title: 'An introduction to Python and Data Science'
 date: 2019-02-11T19:30:08+10:00
-draft: false
+draft: true
 weight: 1
 summary: "Monday: An introduction to Python and Data Science - Working with Python and tabular data"
 ---
