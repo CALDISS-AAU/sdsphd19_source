@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info on AAU Social Data Science PhD 2019</title>
+    <link>https://caldiss-aau.github.io/sdsphd19/info/</link>
+    <description>Recent content in Info on AAU Social Data Science PhD 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Oct 2019 23:20:22 +0200</lastBuildDate>
+    
+	<atom:link href="https://caldiss-aau.github.io/sdsphd19/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lecturers</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/info/lecturers/</link>
+      <pubDate>Thu, 24 Oct 2019 23:21:30 +0200</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/info/lecturers/</guid>
+      <description>The team of lecturers</description>
+    </item>
+    
+    <item>
+      <title>Practical information</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/info/practical/</link>
+      <pubDate>Tue, 05 Nov 2019 09:58:34 +0100</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/info/practical/</guid>
+      <description>Read about the teaching format, meals provided and other relevant info</description>
+    </item>
+    
+    <item>
+      <title>Prerequisites</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/info/prerequisites/</link>
+      <pubDate>Tue, 05 Nov 2019 09:41:25 +0100</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/info/prerequisites/</guid>
+      <description>Make sure to bring your own computer with a Google account&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Logistics</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/info/logistics/</link>
+      <pubDate>Fri, 25 Oct 2019 00:02:52 +0200</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/info/logistics/</guid>
+      <description>Everything you need to know about getting to and from the PhD course.</description>
+    </item>
+    
+  </channel>
+</rss>
