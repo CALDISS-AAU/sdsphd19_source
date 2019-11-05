@@ -47,7 +47,7 @@ draft: false
 | ----------- | ------------------------------------------------------------ | ------------------------------- |
 | 8.30-9.00 | *BREAKFAST (served in/at the classroom)* |  |
 | 9:00-11:00  | **Data from the Web**| Rolf L. Lund & Roman Jurowetski (+ T&T)|
-| 11:00-12:00 | **XAI: Explainable Artificial Intelligence**                                    | Thomas B. Moeslund              |
+| 11:00-12:00 | **Deep Learning and XAI (lecture)**      | Thomas B. Moeslund              |
 | 12:00-13:00 | *LUNCH (served in the CREATE canteen)*                |                                 |
 | 13:00-15:00 | **Methodological Outlook** | Daniel S. Hain, Roman Jurowetski & Rolf L. Lund |
 
