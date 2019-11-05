@@ -6,9 +6,9 @@ weight: 1
 summary: The team of lecturers
 ---
 
-### <a href = https://vbn.aau.dk/en/persons/133224 target = "_blank"> ![thomasa](/sdsphd19/img/ta_head.png) Thomas Arildsen</a>
+### <a href = https://vbn.aau.dk/en/persons/104579 target = "_blank"> ![thomasa](/sdsphd19/img/ta_head.png) Thomas Arildsen</a>
 
-Special Consultant in <a href = https://www.claaudia.aau.dk/ target = "_blank">CLAAUDIA</a> at Aalborg University.
+Special Consultant at <a href = https://www.claaudia.aau.dk/ target = "_blank">CLAAUDIA</a> at Aalborg University.
 
 ---
 
@@ -22,7 +22,7 @@ Assistant Professor in Innovation Studies and Data Science at Aalborg University
 
 ###  <a href = https://vbn.aau.dk/en/persons/115205 target = "_blank"> ![tobias](/sdsphd19/img/tlj_head.png) Tobias L. Jensen</a>
 
-Special Consultant in <a href = https://www.claaudia.aau.dk/ target = "_blank">CLAAUDIA</a> at Aalborg University.
+Special Consultant at <a href = https://www.claaudia.aau.dk/ target = "_blank">CLAAUDIA</a> at Aalborg University.
 
 ---
 
@@ -34,9 +34,12 @@ I come from a crossdisciplinary social science background. After my master in in
 
 ---
 
-### <a href = https://vbn.aau.dk/da/persons/103282 target = "_blank"> ![kristian](/sdsphd19/img/kgk_head.png) Kristian G. Kjelmann</a>
+### <a href = https://vbn.aau.dk/en/persons/137409 target = "_blank"> ![kristian](/sdsphd19/img/kgk_head.png) Kristian G. Kjelmann</a>
 
-General Manager of CALDISS at Aalborg University.
+General Manager of <a href = https://www.en.caldiss.aau.dk/ target = "_blank">CALDISS</a> at Aalborg University.
+
+During my master in sociology I discovered the various potentials of digital methods and programming tools - especially in text analysis. I wrote my masters in higher education organisation using self-taught methods from text mining and the like.
+I now run CALDISS (Computational Analytics Laboratory for Digital Social Science) at the Faculty of Social Sciences at Aalborg University, where I promote and teach the potentials in digital methods and data science to our researchers and students while collaborating and engaging in cross-disciplinary research projects using data science methods.
 
 ---
 
