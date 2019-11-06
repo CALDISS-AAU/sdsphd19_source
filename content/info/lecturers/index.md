@@ -3,7 +3,7 @@ title: "Lecturers"
 date: 2019-10-24T23:21:30+02:00
 draft: false
 weight: 1
-summary: The team of lecturers
+summary: "The team of lecturers."
 ---
 
 ### <a href = https://vbn.aau.dk/en/persons/104579 target = "_blank"> ![thomasa](/sdsphd19/img/ta_head.png) Thomas Arildsen</a>
