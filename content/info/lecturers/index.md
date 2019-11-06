@@ -16,7 +16,7 @@ Special Consultant at <a href = https://www.claaudia.aau.dk/ target = "_blank">C
 
 Assistant Professor in Innovation Studies and Data Science at Aalborg University.
 
- 
+Having a background in engineering, I somehow became an economist, interested in the economics of technological change. Nowadays, my research is mainly centered around the application and development of computational methods to map, visualize, and analyze its causes and consequences. These methods range from traditional econometric modeling and agent-based simulation, over network and complex system modeling, to novel predictive modeling and deep learning techniques. Since 2018 together with Roman Jurowetzki, I am coordinating the [Social Data Science specialization at AAU](https://www.sds.aau.dk/), where we train business and social science students in the application of computational methods. In adittion, I am involved in a range of initiatives to promote the application of machine learning and artificial intelligence methods in social science and the private sector.
 
 ---
 
