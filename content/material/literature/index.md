@@ -2,6 +2,7 @@
 title: "Literature/appendix"
 date: 2019-11-04T18:34:27+01:00
 draft: false
+summary: "Relevant literature and references for further reading can be found here (updated continuously)."
 ---
 
 Relevant literature and references for further reading can be found here (updated continuously).
