@@ -1,7 +1,7 @@
 ---
 title: "Practical information"
 date: 2019-11-05T09:58:34+01:00
-summary: "Read about the teaching format, meals provided and other relevant info"
+summary: "Read about the teaching format, meals provided and other relevant info."
 draft: false
 type: "withtoc"
 layout: "single"

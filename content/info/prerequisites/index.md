@@ -2,7 +2,7 @@
 title: "Prerequisites"
 date: 2019-11-05T09:41:25+01:00
 draft: false
-summary: Make sure to bring your own computer with a Google account"
+summary: "Make sure to bring your own computer with a Google account."
 ---
 
 
