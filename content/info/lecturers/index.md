@@ -30,7 +30,7 @@ Special Consultant at <a href = https://www.claaudia.aau.dk/ target = "_blank">C
 
 Assistant Professor in Innovation Studies and Data Science at Aalborg University.
 
-I come from a crossdisciplinary social science background. After my master in innovation economics I was rather frustrated by the underutilization of unstructured data in the field of my PhD project. This was until I discovered Natural Language Processing in 2013. I have been utilizing text and other unstructured data ever since in my research. Recently that has beeen research related to mapping and understanding of complex technological ecosystems. Since 2018 together with Daniel Hain, I am coordinating the Social Data Science specialization at AAU, where we train business and social science students in the application of computational methods.
+I come from a crossdisciplinary social science background. After my master in innovation economics I was rather frustrated by the underutilization of unstructured data in the field of my PhD project. This was until I discovered Natural Language Processing in 2013. I have been utilizing text and other unstructured data ever since in my research. Recently that has beeen research related to mapping and understanding of complex technological ecosystems. Since 2018 together with Daniel Hain, I am coordinating the [Social Data Science specialization at AAU](https://www.sds.aau.dk/), where we train business and social science students in the application of computational methods.
 
 ---
 
