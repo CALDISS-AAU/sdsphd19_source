@@ -23,7 +23,7 @@ Please contact the course organizer, Kristian Gade Kjelmann (<a href="mailto:kgk
 
 ---
 
-## Mandatory preparation for the PhD course (~28 hours)
+## Mandatory preparation for the PhD course (~13.5 hours)
 
 **Introduction to python (4 hours)**
 
@@ -43,23 +43,6 @@ https://www.datacamp.com/courses/intermediate-python-for-data-science
 
 
 
-**Importing Data in Python (Part 1) (2 hours)**
-
-https://www.datacamp.com/courses/importing-data-in-python-part-1
-
-- Chapter 1: Introduction and flat files
-- Chapter 2: Importing data from other file types
-
-
-
-**Cleaning Data in Python (4 hours)**
-
-https://www.datacamp.com/courses/cleaning-data-in-python
-
-- Entire course
-
-
-
 **Pandas foundations (2 hours)**
 
 https://www.datacamp.com/courses/pandas-foundations
@@ -72,6 +55,33 @@ https://www.datacamp.com/courses/pandas-foundations
 **Python data science toolbox (3 hours)**
 
 https://www.datacamp.com/courses/python-data-science-toolbox-part-1
+
+- Entire course
+
+
+
+**Project: Dr. Semmelweis and the Discovery of Handwashing (2 hours)** 
+
+https://www.datacamp.com/projects/20
+
+---
+
+## Further preparation for the course (~14 hours)
+
+These courses are not mandatory but will prepare you further for the course.
+
+**Importing Data in Python (Part 1) (2 hours)**
+
+https://www.datacamp.com/courses/importing-data-in-python-part-1
+
+- Chapter 1: Introduction and flat files
+- Chapter 2: Importing data from other file types
+
+
+
+**Cleaning Data in Python (4 hours)**
+
+https://www.datacamp.com/courses/cleaning-data-in-python
 
 - Entire course
 
@@ -106,12 +116,6 @@ https://www.datacamp.com/courses/statistical-thinking-in-python-part-1
 - Entire course
 
 
-
-**Project: Dr. Semmelweis and the Discovery of Handwashing (2 hours)** 
-
-https://www.datacamp.com/projects/20
-
----
 
 ## Supplementary courses for Monday (Nov. 25th)
 
