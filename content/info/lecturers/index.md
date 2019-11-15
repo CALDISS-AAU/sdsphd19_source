@@ -3,16 +3,31 @@ title: "Lecturers"
 date: 2019-10-24T23:21:30+02:00
 draft: false
 weight: 1
-summary: "The team of lecturers."
+summary: "The team of lecturers and organizers."
 ---
 
-### <a href = https://vbn.aau.dk/en/persons/104579 target = "_blank"> ![thomasa](/sdsphd19/img/ta_head.png) Thomas Arildsen</a>
+## Lecturers:
+- <a href={{< relref "#thomasa" >}}>Thomas Arrildsen</a>
+- <a href={{< relref "#danielsh" >}}>Daniel S. Hain</a>
+- <a href={{< relref "#tobiaslj" >}}>Tobias L. Jensen</a>
+- <a href={{< relref "#romanj" >}}>Roman Jurowetzki</a>
+- <a href={{< relref "#rolfll" >}}>Rolf L. Lund</a>
+- <a href={{< relref "#thomasbm" >}}>Thomas B. Moeslund</a>
+- <a href={{< relref "#carln" >}}>Carl Nordlund</a>
+
+## Organizers
+- <a href={{< relref "#danielsh" >}}>Daniel S. Hain</a>
+- <a href={{< relref "#romanj" >}}>Roman Jurowetzki</a>
+- <a href={{< relref "#kristiangk" >}}>Kristian G. Kjelmann</a>
+- <a href={{< relref "#rolfll" >}}>Rolf L. Lund</a>
+
+### <a id="thomasa" href = https://vbn.aau.dk/en/persons/104579 target = "_blank"> ![thomasa](/sdsphd19/img/ta_head.png) Thomas Arildsen</a>
 
 Special Consultant at <a href = https://www.claaudia.aau.dk/ target = "_blank">CLAAUDIA</a> at Aalborg University.
 
 ---
 
-### <a href = https://vbn.aau.dk/en/persons/126725 target = "_blank"> ![daniel](/sdsphd19/img/dsh_head.png) Daniel S. Hain</a>
+### <a "danielsh" href = https://vbn.aau.dk/en/persons/126725 target = "_blank"> ![daniel](/sdsphd19/img/dsh_head.png) Daniel S. Hain</a>
 
 Assistant Professor in Innovation Studies and Data Science at Aalborg University.
 
@@ -20,13 +35,13 @@ Having a background in engineering, I somehow became an economist, interested in
 
 ---
 
-###  <a href = https://vbn.aau.dk/en/persons/115205 target = "_blank"> ![tobias](/sdsphd19/img/tlj_head.png) Tobias L. Jensen</a>
+###  <a id="tobiaslj" href = https://vbn.aau.dk/en/persons/115205 target = "_blank"> ![tobias](/sdsphd19/img/tlj_head.png) Tobias L. Jensen</a>
 
 Special Consultant at <a href = https://www.claaudia.aau.dk/ target = "_blank">CLAAUDIA</a> at Aalborg University.
 
 ---
 
-### <a href = https://vbn.aau.dk/en/persons/125497 target = "_blank"> ![roman](/sdsphd19/img/rj_head.jpg) Roman Jurowetzki </a>
+### <a id="romanj" href = https://vbn.aau.dk/en/persons/125497 target = "_blank"> ![roman](/sdsphd19/img/rj_head.jpg) Roman Jurowetzki </a>
 
 Assistant Professor in Innovation Studies and Data Science at Aalborg University.
 
@@ -34,7 +49,7 @@ I come from a crossdisciplinary social science background. After my master in in
 
 ---
 
-### <a href = https://vbn.aau.dk/en/persons/137409 target = "_blank"> ![kristian](/sdsphd19/img/kgk_head.png) Kristian G. Kjelmann</a>
+### <a id="kristiangk" href = https://vbn.aau.dk/en/persons/137409 target = "_blank"> ![kristian](/sdsphd19/img/kgk_head.png) Kristian G. Kjelmann</a>
 
 General Manager of <a href = https://www.en.caldiss.aau.dk/ target = "_blank">CALDISS</a> at Aalborg University.
 
@@ -43,7 +58,7 @@ I now run CALDISS (Computational Analytics Laboratory for Digital Social Science
 
 ---
 
-### <a href = https://vbn.aau.dk/en/persons/133224 target = "_blank"> ![rolf](/sdsphd19/img/rll_head.png) Rolf L. Lund</a>
+### <a id="rolfll" href = https://vbn.aau.dk/en/persons/133224 target = "_blank"> ![rolf](/sdsphd19/img/rll_head.png) Rolf L. Lund</a>
 
 PhD in socioeconomic and spatial inequality at Aalborg University.
 
@@ -51,14 +66,14 @@ I have a background in sociology. After my master in sociology of education I wa
 
 ---
 
-### <a href = https://vbn.aau.dk/en/persons/103282 target = "_blank"> ![thomasm](/sdsphd19/img/tbm_head.png) Thomas B. Moeslund</a>
+### <a id="thomasbm" href = https://vbn.aau.dk/en/persons/103282 target = "_blank"> ![thomasm](/sdsphd19/img/tbm_head.png) Thomas B. Moeslund</a>
 
 Professor in Media Technology and Computer Vision at Aalborg University
 
 ---
 
-### <a href = https://liu.se/en/employee/carno10 target = "_blank"> ![carl](/sdsphd19/img/cn_head.png) Carl Nordlund</a>
+### <a id="carln" href = https://liu.se/en/employee/carno10 target = "_blank"> ![carl](/sdsphd19/img/cn_head.png) Carl Nordlund</a>
 
 Research Fellow at Linköping University.
 
----
+### 

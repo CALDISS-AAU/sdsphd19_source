@@ -115,7 +115,7 @@ https://www.datacamp.com/courses/statistical-thinking-in-python-part-1
 
 - Entire course
 
-
+---
 
 ## Supplementary courses for Monday (Nov. 25th)
 

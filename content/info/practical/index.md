@@ -49,12 +49,11 @@ If you have any dietary restrictions, please contact the course organizer Kristi
 
 We (the course organizers and lecturers) would like to invite all interested participants to join us for a dining and social event.
 
-The event will take place on Wednesday Nov. 27 from 18:30-23:00 at TBD. Dinner and accompanying drinks are covered by the course (any further drinks you will have to pay for yourselves).
+The event will take place on Wednesday Nov. 27 from 18:30-22:30 at <a href=https://pingvintapas.dk/ target = "_blank">Restaurant Pingvin</a>. Dinner and accompanying drinks are covered by the course (any further drinks you will have to pay for yourselves).
 
 Sign up by filling out this registration form: http://bit.ly/sdsphd19social
 
 <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNGg7-JICeN1Kopl4dsYkgftUMTVMNFg0QTRKUDVMNzRNMlBVREdXNllONSQlQCN0PWcu&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
 
 We hope to see as many of you as possible!
 
