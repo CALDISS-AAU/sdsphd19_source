@@ -19,6 +19,9 @@ On day one we will build a working knowledge for performing simple data processi
 ### Method
 The day is based on [participatory live coding](https://carpentries.github.io/instructor-training/14-live/) where the instructor will type in the code with the participants following along. We have good experience with this teaching form. There will also be plenty of small 5 min. exercises.
 
+### Material
+Material and files are available from [here](https://git.its.aau.dk/CLAAUDIA/teach_data.visual.Jupyter/src/branch/sdsphd19)
+
 ### Content
 
 1. (1/2 h) Why? workflow? Setting the scene - packages/eco-system - sharing - visibility - literate programming - reproducibility 
@@ -34,7 +37,6 @@ The day is based on [participatory live coding](https://carpentries.github.io/in
      8. Shortcuts
      9. Comments (Markdown) and Latex-ify
      10. Cell execution order and state (pitfalls of arbitrary execution order)
-     11. JSON and dictionaries
 3. (2 h) Pandas
   1. Intro and key data structures
   2. Iterating - lists and dictionaries
@@ -51,6 +53,8 @@ The day is based on [participatory live coding](https://carpentries.github.io/in
   2. Basic terminology
   3. Scatter plots
   4. Box plots
+  5. Working with JSON and XML
+  
 6. (1/4 h) Outlook, final questions, wrap-up etc.
 
 ### Literature:
