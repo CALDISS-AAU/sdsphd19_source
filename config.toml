@@ -26,11 +26,16 @@ summaryLength = 30
 [[menu.main]]
     name = "Info"
     url = "/info/"
-    weight = 2
+    weight = 4
+	
+[[menu.main]]
+	name = "Notebooks"
+	url = "/notebooks/"
+	weight = 3
 
 
 [params]
-  mainSections = ["material", "info"]
+  mainSections = ["material", "info", "notebooks"]
   google_analytics_id=""
   homepage_button_link = '/material'
   homepage_button_text = 'Go to the course material'
@@ -42,14 +47,14 @@ summaryLength = 30
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "An Applied Introduction to Machine Learning for Social Science And Humanities Scholars"
+    meta_og_title = "The Social Data Science PhD Course 2019"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
+    meta_og_url = "https://caldiss-aau.github.io/sdsphd19/"
+    meta_og_image = "https://rawcdn.githack.com/RJuro/sdsphd19_source/b41578d0a60e132054adebb91dfe9e658e57745c/static/meta_prev.png"
+    meta_og_description = "An Applied Introduction to Machine Learning for Social Science And Humanities Scholars"
+    meta_twitter_card = ""
+    meta_twitter_site = ""
     meta_twitter_creator = "caldiss.aau.dk"
 
   [params.logo]
