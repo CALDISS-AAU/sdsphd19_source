@@ -11,3 +11,10 @@ This is the repository page for the PhD Course
     title="caldisslogo" width="150" height="100" /></a> &ensp;&ensp;  <a href="https://sds.aau.dk/"  target="_blank"> <img src="sdslogo.png" alt="sdslogo"
     title="SDSlogo" width="150" height="100"/></a> &ensp;&ensp; <a href="https://www.datacamp.com/"  target="_blank"><img src="DataCampLogo.png" alt="datacamplogo"
     title="datacamplogo" width="150" height="100" /></a>
+
+
+
+## Wi-Fi
+Name: AAU-CONF-1
+
+Code: uwmbjngs

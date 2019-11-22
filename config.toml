@@ -19,7 +19,7 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Course material"
+    name = "Materials & schedule"
     url = "/material/"
     weight = 2
 
@@ -29,13 +29,13 @@ summaryLength = 30
     weight = 4
 	
 [[menu.main]]
-	name = "Notebooks"
-	url = "/notebooks/"
+	name = "Sessions"
+	url = "/sessions/"
 	weight = 3
 
 
 [params]
-  mainSections = ["material", "info", "notebooks"]
+  mainSections = ["material", "info", "sessions"]
   google_analytics_id=""
   homepage_button_link = '/material'
   homepage_button_text = 'Go to the course material'

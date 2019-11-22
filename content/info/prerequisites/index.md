@@ -28,7 +28,7 @@ To use Google Colab, all you need is a working Google account.
 
 You can <a href=https://accounts.google.com/signup/v2/webcreateaccount?hl=en.&flowName=GlifWebSignIn&flowEntry=SignUp target = "_blank">create a Google account for free</a>.
 
-Links to the course notebooks will be provided at the lectures and will be made available <a href = {{< ref "../../notebooks/_index.md">}}>here</a>.
+Links to the course notebooks will be provided at the lectures and will be made available <a href = {{< ref "../../sessions/_index.md">}}>here</a>.
 
 
 

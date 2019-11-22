@@ -7,7 +7,7 @@ summary: "The team of lecturers and organizers."
 ---
 
 ## Lecturers:
-- <a href={{< relref "#thomasa" >}}>Thomas Arrildsen</a>
+- <a href={{< relref "#thomasa" >}}>Thomas Arildsen</a>
 - <a href={{< relref "#danielsh" >}}>Daniel S. Hain</a>
 - <a href={{< relref "#tobiaslj" >}}>Tobias L. Jensen</a>
 - <a href={{< relref "#romanj" >}}>Roman Jurowetzki</a>
