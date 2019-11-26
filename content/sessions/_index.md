@@ -41,6 +41,9 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 **Introduction to Exploratory Data Analysis and Unsupervised Machine Learning** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd19_coursematerials/blob/master/notebooks/CALDISS_PHD_Intro_UML.ipynb#&offline=true&sandboxMode=true)
 
 
+### Clustering
+**Finding Patterns in Messy Data Using Clustering**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd19_coursematerials/blob/master/notebooks/SDS_PhD19_Clustering.ipynb#&offline=true&sandboxMode=true)
+
 
 ### Prediction and Classification
 
@@ -63,4 +66,4 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 ## Friday
 ---
 
-
+​	
