@@ -18,7 +18,7 @@ draft: false
 | Time        | Module                                                       | Instructor                |
 | ----------- | ------------------------------------------------------------ | ------------------------- |
 | 8.30-9.00 | *BREAKFAST (served in the classroom)* |  |
-| 9:00-10:30  | **Introduction to Exploratory Data Analysis and Unsupervised Machine Learning**               | Daniel S. Hain (+ T&T)     |
+| 9:00-10:30  | <a href = {{< ref "../../sessions/_index.md#eda-unsupervised-ml" >}}>**Introduction to Exploratory Data Analysis and Unsupervised Machine Learning**</a>              | Daniel S. Hain (+ T&T)     |
 | 10:30-12:00 | **Finding Patterns in Messy Data Using Clustering**                          | Rolf L. Lund (+ T&T)        |
 | 12:00-13:00 | *LUNCH (served in the classroom)*                |                           |
 | 13:00-14:00 | **Introduction to Supervised Machine Learning**         | Daniel S. Hain            |

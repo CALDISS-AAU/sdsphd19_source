@@ -19,7 +19,7 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 ---
 
 ### An introduction to Python and Data Science
-<a href = {{< ref "../sessions_content/PyIntro/index.md" >}}>**Content**</a>
+<a href = {{< ref "../sessions/PyIntro/index.md" >}}>**Content**</a>
 
 **1. An introduction to Python and Data Science** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd19_coursematerials/blob/master/teach_data.visual.jupyter/jupyter/intro.ipynb#&offline=true&sandboxMode=true)
 
@@ -35,6 +35,12 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 ## Tuesday
 
 ---
+
+### EDA & Unsupervised ML
+
+**Introduction to Exploratory Data Analysis and Unsupervised Machine Learning** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd19_coursematerials/blob/master/notebooks/CALDISS_PHD_Intro_UML.ipynb#&offline=true&sandboxMode=true)
+
+
 
 ### Prediction and Classification
 
