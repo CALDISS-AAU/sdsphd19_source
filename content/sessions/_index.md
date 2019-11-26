@@ -44,9 +44,12 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 
 ### Prediction and Classification
 
+[**Supervised ML - Slides**](https://github.com/CALDISS-AAU/sdsphd19_coursematerials/raw/master/notebooks/CALDISS_intro_SML.pdf)
+
 **A quick hands-on tutorial in Supervised ML** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd19_coursematerials/blob/master/notebooks/SDS_PhD_2019_Supervised_ML_tutorial.ipynb#&offline=true&sandboxMode=true)
 
-
+### Portfolio
+**Employee Turnover UML and SML** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd19_coursematerials/blob/master/notebooks/Portfolio_Tuesday.ipynb#&offline=true&sandboxMode=true)
 
 ## Wednesday
 ---
