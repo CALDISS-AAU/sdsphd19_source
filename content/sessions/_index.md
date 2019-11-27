@@ -57,6 +57,9 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 ## Wednesday
 ---
 
+### Network Analysis
+**Intro to Networks and Network Analysis** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd19_coursematerials/blob/master/notebooks/CALDISS_PHD_Intro_networks.ipynb#&offline=true&sandboxMode=true)
+
 
 
 ## Thursday
