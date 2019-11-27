@@ -66,6 +66,10 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 
 **Blockmodeling notebook** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd19_coursematerials/blob/master/wednesday_network-blockmodeling/Lab_Blockmodeling.ipynb#&offline=true&sandboxMode=true)
 
+### Portfolio
+
+**Networks on Instagram** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd19_coursematerials/blob/master/notebooks/networks_exercise_instagram.ipynb#&offline=true&sandboxMode=true) 
+
 ## Thursday
 ---
 
