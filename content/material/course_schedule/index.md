@@ -31,7 +31,7 @@ draft: false
 | 9:00-11:00  | **Introduction to Network Analysis**| Daniel S. Hain       |
 | 11:00-12:00 | **Exercises with Network Analysis and Visualizations**| Daniel S. Hain (+ T&T) |
 | 12:00-13:00 | *LUNCH (served in the classroom)*                |                      |
-| 13:00-16:00 | **NA: Network analysis and block modelling**| Carl Nordlund (+T&T) |
+| 13:00-16:00 | <a href = {{< ref "../../sessions/_index.md#an-introduction-to-blockmodeling" >}}>**Introduction to Blockmodeling**</a> | Carl Nordlund (+T&T) |
 | 16:00-17:00 | **Portfolio:** Applying network analysis                     | Daniel S. Hain & Carl Nordlund (+ T&T)   |
 ### Thursday (Nov. 28th 2019)
 | Time        | Module                                                       | Instructor             |
