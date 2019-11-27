@@ -66,6 +66,8 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 
 **Blockmodeling materials (data and python module) - Download before opening notebook!** <a href="https://github.com/CALDISS-AAU/sdsphd19_coursematerials/raw/master/wednesday_network-blockmodeling/blockmodeling_material.zip" target="_blank">**[Download]**</a>
 
+{{< youtube X9KpgRXcVqo >}}
+
 **Blockmodeling notebook** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd19_coursematerials/blob/master/wednesday_network-blockmodeling/Lab_Blockmodeling.ipynb#&offline=true&sandboxMode=true)
 
 ## Thursday
