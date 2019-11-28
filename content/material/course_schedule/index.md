@@ -37,10 +37,10 @@ draft: false
 | Time        | Module                                                       | Instructor             |
 | ----------- | ------------------------------------------------------------ | ---------------------- |
 | 8.30-9.00 | *BREAKFAST (served in the classroom)* |  |
-| 9:00-10:00  | <a href = {{< ref "../../sessions/_index.md#text-as-data" >}}>**NLP: Text as Data** | Roman Jurowetski (+ T&T)      |
+| 9:00-10:00  | <a href = {{< ref "../../sessions/_index.md#text-as-data" >}}>**NLP: Text as Data**</a> | Roman Jurowetski (+ T&T)      |
 | 10:00-12:00 | **NLP: Text for Exploratory Data Analysis**| Roman Jurowetski (+ T&T) |
 | 12:00-13:00 | *LUNCH (served in the classroom)*                |                        |
-| 13:00-14:00 | <a href = {{< ref "../../sessions/_index.md#text-in-machine-learning" >}}>**NLP: Using Text in Machine Learning Pipelines** | Roman Jurowetski (+ T&T) |
+| 13:00-14:00 | <a href = {{< ref "../../sessions/_index.md#text-in-machine-learning" >}}>**NLP: Using Text in Machine Learning Pipelines**</a> | Roman Jurowetski (+ T&T) |
 | 16:00-17:00 | **Portfolio:** Applying NLP techniques                       | Roman Jurowetski (+ T&T) |
 ### Friday (Nov. 29th 2019)
 
