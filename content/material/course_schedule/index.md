@@ -47,7 +47,7 @@ draft: false
 | Time        | Module                                                       | Instructor                      |
 | ----------- | ------------------------------------------------------------ | ------------------------------- |
 | 8.30-9.00 | *BREAKFAST (served in the classroom)* |  |
-| 9:00-11:00  | **Data from the Web**| Rolf L. Lund & Roman Jurowetski (+ T&T)|
+| 9:00-11:00  | <a href = {{< ref "../../sessions/_index.md#data-from-the-web" >}}>**Data from the Web**</a>| Rolf L. Lund & Roman Jurowetski (+ T&T)|
 | 11:00-12:00 | **Deep Learning and XAI (lecture)**      | Thomas B. Moeslund              |
 | 12:00-13:00 | *LUNCH (served in the classroom)*                |                                 |
 | 13:00-15:00 | **Methodological Outlook** | Daniel S. Hain, Roman Jurowetski & Rolf L. Lund |

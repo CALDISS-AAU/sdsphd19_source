@@ -90,4 +90,6 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 ## Friday
 ---
 
-​	
+### Data from the Web
+
+**Scraping in python** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd19_coursematerials/blob/master/notebooks/SDS_PhD19_scrapy-scraping.ipynb#&offline=true&sandboxMode=true) 	
