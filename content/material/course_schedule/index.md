@@ -50,7 +50,8 @@ draft: false
 | 9:00-11:00  | <a href = {{< ref "../../sessions/_index.md#data-from-the-web" >}}>**Data from the Web**</a>| Rolf L. Lund & Roman Jurowetzki (+ T&T)|
 | 11:00-12:00 | **Deep Learning and XAI (lecture)**      | Thomas B. Moeslund              |
 | 12:00-13:00 | *LUNCH (served in the classroom)*                |                                 |
-| 13:00-15:00 | **Methodological Outlook** | Daniel S. Hain, Roman Jurowetzki & Rolf L. Lund |
+| 13:00-14:00 | **Methodological Outlook**: Satellite images and deep learning | Rolf L. Lund |
+| 14:00-15:00 | <a href = {{< ref "../../sessions/_index.md#explainability" >}}>**Explainability in Machine Learning**</a> | Daniel S. Hain & Roman Jurowetzki |
 
 ---
 
