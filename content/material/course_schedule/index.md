@@ -22,7 +22,7 @@ draft: false
 | 10:30-12:00 | <a href = {{< ref "../../sessions/_index.md#clustering" >}}>**Finding Patterns in Messy Data Using Clustering**</a>                          | Rolf L. Lund (+ T&T)        |
 | 12:00-13:00 | *LUNCH (served in the classroom)*                |                           |
 | 13:00-14:00 | **Introduction to Supervised Machine Learning**         | Daniel S. Hain            |
-| 14:00-16:00 | <a href = {{< ref "../../sessions/_index.md#prediction-and-classification" >}}>**Prediction and Classification (and how to use it in your research)**</a> | Roman Jurowetski (+ T&T)    |
+| 14:00-16:00 | <a href = {{< ref "../../sessions/_index.md#prediction-and-classification" >}}>**Prediction and Classification (and how to use it in your research)**</a> | Roman Jurowetzki (+ T&T)    |
 | 16:00-17:00 | **Portfolio:** Applying unsupervised and supervised machine learning algorithms | Daniel S. Hain, Roman Jurowetzki & Rolf L. Lund (+ T&T) |
 ### Wednesday (Nov. 27th 2019)
 | Time        | Module                                                       | Instructor           |
@@ -37,20 +37,20 @@ draft: false
 | Time        | Module                                                       | Instructor             |
 | ----------- | ------------------------------------------------------------ | ---------------------- |
 | 8.30-9.00 | *BREAKFAST (served in the classroom)* |  |
-| 9:00-10:00  | <a href = {{< ref "../../sessions/_index.md#text-as-data" >}}>**NLP: Text as Data**</a> | Roman Jurowetski (+ T&T)      |
-| 10:00-12:00 | **NLP: Text for Exploratory Data Analysis**| Roman Jurowetski (+ T&T) |
+| 9:00-10:00  | <a href = {{< ref "../../sessions/_index.md#text-as-data" >}}>**NLP: Text as Data**</a> | Roman Jurowetzki (+ T&T)      |
+| 10:00-12:00 | **NLP: Text for Exploratory Data Analysis**| Roman Jurowetzki (+ T&T) |
 | 12:00-13:00 | *LUNCH (served in the classroom)*                |                        |
-| 13:00-14:00 | <a href = {{< ref "../../sessions/_index.md#text-in-machine-learning" >}}>**NLP: Using Text in Machine Learning Pipelines**</a> | Roman Jurowetski (+ T&T) |
-| 16:00-17:00 | **Portfolio:** Applying NLP techniques                       | Roman Jurowetski (+ T&T) |
+| 13:00-14:00 | <a href = {{< ref "../../sessions/_index.md#text-in-machine-learning" >}}>**NLP: Using Text in Machine Learning Pipelines**</a> | Roman Jurowetzki (+ T&T) |
+| 16:00-17:00 | **Portfolio:** Applying NLP techniques                       | Roman Jurowetzki (+ T&T) |
 ### Friday (Nov. 29th 2019)
 
 | Time        | Module                                                       | Instructor                      |
 | ----------- | ------------------------------------------------------------ | ------------------------------- |
 | 8.30-9.00 | *BREAKFAST (served in the classroom)* |  |
-| 9:00-11:00  | <a href = {{< ref "../../sessions/_index.md#data-from-the-web" >}}>**Data from the Web**</a>| Rolf L. Lund & Roman Jurowetski (+ T&T)|
+| 9:00-11:00  | <a href = {{< ref "../../sessions/_index.md#data-from-the-web" >}}>**Data from the Web**</a>| Rolf L. Lund & Roman Jurowetzki (+ T&T)|
 | 11:00-12:00 | **Deep Learning and XAI (lecture)**      | Thomas B. Moeslund              |
 | 12:00-13:00 | *LUNCH (served in the classroom)*                |                                 |
-| 13:00-15:00 | **Methodological Outlook** | Daniel S. Hain, Roman Jurowetski & Rolf L. Lund |
+| 13:00-15:00 | **Methodological Outlook** | Daniel S. Hain, Roman Jurowetzki & Rolf L. Lund |
 
 ---
 
